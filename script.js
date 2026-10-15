@@ -111,6 +111,7 @@ console.log(divisibilePer3o7(70))
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
+
 /* ESERCIZIO 8 — inizialiMaiuscole
    Funzione inizialiMaiuscole(frase): metti in maiuscolo la prima lettera di ogni parola.
    "ciao mondo" → "Ciao Mondo".
@@ -118,11 +119,19 @@ console.log(divisibilePer3o7(70))
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+// function inizialiMaiuscole(frase){
+// const parole= frase.split(" ");
+// for(let i = o; i < parole.lenght ; i++)
+
+
+
+// }
 
 /* ESERCIZIO 9 — togliPrimoEUltimo
    Funzione togliPrimoEUltimo(testo): rimuovi primo e ultimo carattere.
    Usa slice. Prova con "EPICODE".
 */
+
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
